@@ -21,8 +21,8 @@ menu = f"""
                 │[6]Ddos_Ecoledirect          │[23]Comming soon            │[40]Twitch_Token_Gen/Checker         │[56]Zeogen                      │ 
                 │[7]Brute_Force_tool          │[24]Comming soon            │[41]CC Gen                           │[57]Fake ETH Wallet Miner       │
                 │[8]Proxy_Connect(bypassauth) │[25]Comming soon            │[42]CC Checker                       │[58]Fake BTC Wallet Miner       │
-                │[9]Osint_Compte_Ecoledirect  │[26]Comming soon          │[43]Nitro Gen                        │[59]IP Grabber PY               │
-                │[10]Phishing_Ecoledirect_tool│[27]iplookup                │[44]Nitro gen 2                      │[60]Insta Checker               │
+                │[9]Osint_Compte_Ecoledirect  │[26]Comming soon           │[43]Nitro Gen                        │[59]IP Grabber PY               │
+                │[10]Phishing_Ecoledirect_tool│[27]Comming soon          │[44]Nitro gen 2                      │[60]Insta Checker               │
                 │[11]Database_Ecoledirect_Acc │[28]Comming soon │[45]Nitro Gen 3                      │[61]Fake Discord IP Puller      │
                 │[12]Comming soon             │[29]Comming soon            │[46]Random Multi Tool                │[62]TikTok Checker              │
                 │[13]Comming soon             │[30]Comming soon            │[47]Discord Rat                      │[63]TikTok Autoclaimer          │
